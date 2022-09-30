@@ -167,10 +167,10 @@
   dependencies:
     prop-types "^15.7.2"
 
-"@stripe/stripe-js@^1.11.0":
-  version "1.11.0"
-  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.11.0.tgz#00e812d72a7760dae08237875066d263671478ee"
-  integrity sha512-SDNZKuETBEVkernd1tq8tL6wNfVKrl24Txs3p+4NYxoaIbNaEO7mrln/2Y/WRcQBWjagvhDIM5I6+X1rfK0qhQ==
+"@stripe/stripe-js@^1.36.0":
+  version "1.38.1"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.38.1.tgz#67a27380f021931f6e44abeee2b011b8d7f524de"
+  integrity sha512-v0hF65jEs7tw33JE70E5puJ2fFhpiS2XYwmayupEdjKWavJivycYcZgZKYXAQhTiMgtDgN9YPzqUr86VzVc3Ew==
 
 "@types/json-schema@^7.0.5", "@types/json-schema@^7.0.6":
   version "7.0.6"
