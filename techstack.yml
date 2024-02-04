@@ -1,0 +1,225 @@
+repo_name: filipeoliveiraa/jamstack-ecommerce
+report_id: 35c8514a8a97dc8500e91de6626cdb49
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-04T23:16:18+00:00'
+requested_by: dabit3
+provider: github
+branch: next
+detected_tools_count: 17
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/package.json
+  detection_source: package.json
+  last_updated_by: Nader Dabit
+  last_updated_on: 2021-01-02 21:06:00.000000000 Z
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  version: 10.0.4
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/yarn.lock
+  detection_source: package.json
+  last_updated_by: Dabit
+  last_updated_on: 2020-02-11 02:09:12.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/package.json
+  detection_source: package.json
+  last_updated_by: Dabit
+  last_updated_on: 2020-02-11 02:09:12.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/yarn.lock
+  detection_source: package.json
+  last_updated_by: Nader Dabit
+  last_updated_on: 2021-01-04 01:50:43.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/package.json
+  detection_source: package.json
+  last_updated_by: Nader Dabit
+  last_updated_on: 2021-01-02 21:06:00.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: Dabit
+  last_updated_on: 2020-02-11 02:09:12.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/package.json
+  detection_source: package.json
+  last_updated_by: Dabit
+  last_updated_on: 2020-02-11 02:09:12.000000000 Z
+- name: Serverless
+  description: The most widely-adopted toolkit for building serverless applications
+  website_url: https://github.com/serverless/serverless
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Serverless / Task Processing
+  image_url: https://img.stackshare.io/service/5095/serverless-logo.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/serverless.yml
+  detection_source: serverless.yml
+  last_updated_by: Nader Dabit
+  last_updated_on: 2021-01-06 02:03:46.000000000 Z
+- name: Stripe
+  description: Payments for developers
+  website_url: https://stripe.com
+  open_source: false
+  hosted_saas: true
+  category: Payments
+  sub_category: Payment Services
+  image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/package.json
+  detection_source: package.json
+  last_updated_by: Nader Dabit
+  last_updated_on: 2021-01-04 01:50:43.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/yarn.lock
+  detection_source: package.json
+  last_updated_by: Nader Dabit
+  last_updated_on: 2021-01-04 01:50:43.000000000 Z
+- name: react-icons
+  description: SVG React icons of popular icon packs using ES6 imports
+  package_url: https://www.npmjs.com/react-icons
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16909/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/yarn.lock
+  detection_source: package.json
+  last_updated_by: Nader Dabit
+  last_updated_on: 2021-01-04 01:50:43.000000000 Z
+- name: react-toastify
+  description: React notification made easy
+  package_url: https://www.npmjs.com/react-toastify
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18461/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/yarn.lock
+  detection_source: package.json
+  last_updated_by: Nader Dabit
+  last_updated_on: 2021-01-04 01:50:43.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 2.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/yarn.lock
+  detection_source: package.json
+  last_updated_by: Nader Dabit
+  last_updated_on: 2021-01-02 21:06:00.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 8.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/filipeoliveiraa/jamstack-ecommerce/blob/next/yarn.lock
+  detection_source: package.json
+  last_updated_by: Nader Dabit
+  last_updated_on: 2021-01-02 21:06:00.000000000 Z
